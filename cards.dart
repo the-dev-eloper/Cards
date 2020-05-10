@@ -32,5 +32,7 @@ class Deck() {
     cards.shuffle();
   }
 
-  cardsWithSuit(String suit) {}
+  cardsWithSuit(String suit) {
+    return card
+  }
 }
